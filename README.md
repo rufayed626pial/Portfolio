@@ -1,6 +1,6 @@
-# Personal Portfolio - MD. Rufayed Islam
+ Personal Portfolio - MD. Rufayed Islam
+#<img width="1903" height="903" alt="Screenshot 2025-07-25 144619" src="https://github.com/user-attachments/assets/259c387a-c39a-4a4f-8fd3-aee5b4d2ac05" />
 
-![Screenshot](./Screenshot%202025-07-25%20143719.png)
 
 ## 🌐 About the Project
 
@@ -30,8 +30,6 @@ This is my **personal portfolio website** designed and developed to showcase my 
 - Dropdown navigation
 - Contact info with social links
 - Custom styling and interaction using JavaScript
-
----<img width="1895" height="910" alt="Screenshot 2025-07-25 143719" src="https://github.com/user-attachments/assets/f006cbe5-694e-48dd-bf8f-725bde445232" />
 
 
 ## 📷 Screenshots
