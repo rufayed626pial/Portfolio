@@ -48,11 +48,11 @@ This is my **personal portfolio website** designed and developed to showcase my 
 ---
 ## 🛠️ Planned Features
 
-- Blog or Article section
-- Multi-language support
-- Project filtering system
-- Animation enhancements using GSAP or ScrollReveal.js
-- Hosting with CI/CD via GitHub Actions
+- 📝 **Blog/Article Section** – Share insights, tutorials, and technical writeups.
+- 🌐 **Multi-Language Support** – Switch between languages for global accessibility.
+- 🧩 **Project Filtering System** – Filter portfolio items by category or technology.
+- 🎞️ **Smooth Animations** – Add engaging animations using **GSAP** or **ScrollReveal.js**.
+- 🚀 **CI/CD Deployment** – Automate deployment using **GitHub Actions** for seamless updates.
 
 ---
 ## 📷 Screenshots
