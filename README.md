@@ -20,6 +20,20 @@ This is my **personal portfolio website** designed and developed to showcase my 
 
 ## 🚀 Features
 
+- 🔥 **Modern & Responsive Design** – Fully responsive layout built with Bootstrap, optimized for all devices.
+- 🧭 **Smooth Navigation** – Scrollable sections with interactive menu and dropdown navigation.
+- 🎯 **Professional About Section** – Highlights personal background, career goals, and values.
+- 📄 **Resume Section** – Showcases education, skills, and achievements in a structured format.
+- 🖼️ **Portfolio Gallery** – Displays projects with image thumbnails and modal previews.
+- 🧠 **Skills Highlights** – Lists both technical and soft skills in a clean visual format.
+- 🛠️ **Services Section** – Describes professional offerings like development, design, or consulting.
+- 📧 **Contact Form** – Enables users to reach out directly through an integrated form (can connect to PHP or service like Formspree).
+- 🌐 **Social Media Integration** – Includes clickable icons for GitHub, LinkedIn, Facebook, Instagram, Skype.
+- 🌓 **Dark Mode Aesthetic** – Sleek and modern dark-themed UI for a sharp professional look.
+- 📁 **Organized Codebase** – Well-structured folder system (HTML, CSS, JS, PHP) following best practices.
+- 🛡️ **Security-Aware Development** – Built with a focus on security principles (as you're a Cybersecurity expert).
+- 🧩 **Easily Customizable** – Ready for updates and personalization without rewriting core layout.
+
 - Responsive design (mobile-friendly)
 - Clean UI with navigation bar and sections:
   - About
@@ -31,7 +45,16 @@ This is my **personal portfolio website** designed and developed to showcase my 
 - Contact info with social links
 - Custom styling and interaction using JavaScript
 
+---
+## 🛠️ Planned Features
 
+- Blog or Article section
+- Multi-language support
+- Project filtering system
+- Animation enhancements using GSAP or ScrollReveal.js
+- Hosting with CI/CD via GitHub Actions
+
+---
 ## 📷 Screenshots
 
 ---<img width="1895" height="910" alt="Screenshot 2025-07-25 143719" src="https://github.com/user-attachments/assets/f006cbe5-694e-48dd-bf8f-725bde445232" />
@@ -40,9 +63,9 @@ This is my **personal portfolio website** designed and developed to showcase my 
 
 ---
 
-## 📡 Live Demo
+## 🌍 Live Website
 
-🔗 [](https://rufayed626pial.github.io/Portfolio/)](#) 
+🔗 [https://rufayed626pial.github.io/Portfolio/](https://rufayed626pial.github.io/Portfolio/)
 
 ---
 
