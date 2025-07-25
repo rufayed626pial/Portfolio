@@ -4,7 +4,7 @@
 
 ## 🌐 About the Project
 
-This is my **personal portfolio website** designed and developed to showcase my work, skills, and contact information as a **Software Engineer & Cyber Security Expert**. It highlights my technical background, personal story, and achievements in a sleek, responsive layout.
+This is my **personal portfolio website** designed and developed to showcase my work, skills, and contact information as a **Software Engineer & Cyber Security Expert & Web Developer & Designer**. It highlights my technical background, personal story, and achievements in a sleek, responsive layout.
 
 > Passionate about crafting secure, user-focused digital experiences through clean code and smart design.
 
