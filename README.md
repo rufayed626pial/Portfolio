@@ -42,7 +42,7 @@ This is my **personal portfolio website** designed and developed to showcase my 
 
 ## 📡 Live Demo
 
-🔗 [Live Site Coming Soon](#)
+🔗 [](https://rufayed626pial.github.io/Portfolio/)](#) 
 
 ---
 
@@ -80,8 +80,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN     
 THE SOFTWARE.
-
----
 
 Author: MD. Rufayed Islam  
 GitHub: https://github.com/rufayed626pial  
